@@ -1,0 +1,16 @@
+PODS:
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - SocketRocket
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SocketRocket
+
+SPEC CHECKSUMS:
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 9408397a889c315c0a9e8c433efe8da135a4ae2b
+
+COCOAPODS: 1.5.3
