@@ -1,6 +1,6 @@
 # SCOM/VCC-SWİFT4.2 ( Video_Call_Conferance) (simple UI)
 #  Created by ahmeterdogan on 23.10.2018.
-# Copyright © 2018 erdogan. All rights reserved.
+# Copyright © 2018 ahmeterdogan. All rights reserved.
 
 # SCOM/VCC
 As the name suggests, this is an client for iOS implementation of the Google WebRTC framework, SocketRocket framework it contains build in WebRTC.Framework and RTCClient written in swift to let you easily add video/audio call capability to your app. (without UI Design)
