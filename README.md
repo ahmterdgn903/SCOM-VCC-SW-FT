@@ -1,5 +1,5 @@
-# SCOM/VCC-SWİFT4.2 ( Video_Call_Conferance)
-#  Created by macOS on 23.10.2018.
+# SCOM/VCC-SWİFT4.2 ( Video_Call_Conferance) (simple UI)
+#  Created by ahmeterdogan on 23.10.2018.
 # Copyright © 2018 erdogan. All rights reserved.
 
 # SCOM/VCC
